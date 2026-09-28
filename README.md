@@ -1,4 +1,4 @@
-# Nyamwaya Website
+# Fundraising website
 
 Professional fundraising website structure prepared for frontend pages, backend API development, PostgreSQL, MPesa, and card payment integrations.
 
